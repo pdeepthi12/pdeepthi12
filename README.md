@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pdeepthi12
 - 👀 I’m interested in progamming
 - 🌱 I’m currently learning Html, Css, Javascript and Java
-- 💞️ I’m looking to collaborate on developing a website using htm, css and java
+- 💞️ I’m looking to collaborate on developing a website using html, css and java
 - 📫 How to reach me 
 
 <!---
